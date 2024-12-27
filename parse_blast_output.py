@@ -105,10 +105,10 @@ def parse_blast_results(file_path):
     return df
 
 # File path to your BLAST result file
-# blast_file_path = input("Enter the path to the BLAST result file: ")
-blast_file_path = 'data/PXRD4D97013-Alignment.txt'
-# output_csv_path = input("Enter the output CSV file path: ")
-output_csv_path = 'data/PXRD4D97013-Alignment.txtbest_blast_matches.csv'
+blast_file_path = input("Enter the path to the BLAST result file: ")
+# data/PXRD4D97013-Alignment.txt
+output_csv_path = input("Enter the output CSV file path: ")
+# data/PXRD4D97013-Alignment.txtbest_blast_matches.csv
 
 df_results = parse_blast_results(blast_file_path)
 
