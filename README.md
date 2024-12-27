@@ -101,6 +101,14 @@ Choose
 
 Sign "*" in the beggining of empty output of search.
 
+Next, parse file using script 
+```bash
+python3.12 parse_blast_output.py
+Enter the path to the BLAST result file: data/PXRD4D97013-Alignment.txt
+Enter the output CSV file path: data/PXRD4D97013-Alignment.txtbest_blast_matches.csv
+Results saved to data/PXRD4D97013-Alignment.txtbest_blast_matches.csv
+```
+
 | Query               | Description                                        | Scientific Name    | Common Name | TaxID   | Max Score | Total Score | Query Cover | E-value | Percent Identity | Alignment Length | Accession |
 |---------------------|----------------------------------------------------|--------------------|-------------|---------|-----------|-------------|-------------|---------|------------------|------------------|-----------|
 | Query #1: g15153.t1 | U-scoloptoxin(01)-Er1a; Short=U-SLPTX(01)-Er1a;... | Ethmostigmus...       | NA          | 62613   | 68.9      | 68.9        | 46 %        | 2E-14   | 39.76           | 119              | P0DPW4.1  |
