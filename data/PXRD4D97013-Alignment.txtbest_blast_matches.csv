@@ -1,0 +1,20 @@
+Query,Description,Scientific Name,Common Name,TaxID,Max Score,Total Score,Query Cover,E-value,Percent Identity,Alignment Length,Accession
+Query #1: g15153.t1,U-scoloptoxin(01)-Er1a; Short=U-SLPTX(01)-Er1a;...,Ethmostigmus,NA,62613,68.9,68.9,46%,2e-14,39.76,119,P0DPW4.1
+Query #2: g5502.t1,U-scoloptoxin(01)-Er1a; Short=U-SLPTX(01)-Er1a;...,Ethmostigmus,NA,62613,69.3,69.3,33%,6e-14,39.76,119,P0DPW4.1
+Query #3: g4106.t1,No significant similarity found,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Query #4: g3428.t1,Myosin regulatory light chain; AltName:...,Caenorhabdit,NA,6239,199,199,91%,9e-65,56.60,172,Q09510.1
+Query #5: g13530.t1,No significant similarity found,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Query #6: g14472.t1,Damage suppressor protein [Ramazzottius...,Ramazzottius,NA,947166,814,814,100%,0.0,100.00,445,P0DOW4.1
+Query #7: g5237.t1,No significant similarity found,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Query #8: g10513.t1,No significant similarity found,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Query #9: g10514.t1,No significant similarity found,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Query #10: g3679.t1,Zinc metalloproteinase nas-14; AltName:...,Caenorhabdit,NA,6239,98.2,98.2,72%,7e-22,29.72,503,Q19269.2
+Query #11: g702.t1,U-scoloptoxin(01)-Er1a; Short=U-SLPTX(01)-Er1a;...,Ethmostigmus,NA,62613,62.4,62.4,39%,1e-11,40.48,119,P0DPW4.1
+Query #12: g5503.t1,U-scoloptoxin(01)-Er1a; Short=U-SLPTX(01)-Er1a;...,Ethmostigmus,NA,62613,68.6,68.6,38%,7e-14,39.76,119,P0DPW4.1
+Query #13: g5616.t1,U-scoloptoxin(01)-Er1a; Short=U-SLPTX(01)-Er1a;...,Ethmostigmus,NA,62613,69.7,69.7,40%,2e-14,40.96,119,P0DPW4.1
+Query #14: g12510.t1,No significant similarity found,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Query #15: g5510.t1,No significant similarity found,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Query #16: g5641.t1,U-scoloptoxin(01)-Er1a; Short=U-SLPTX(01)-Er1a;...,Ethmostigmus,NA,62613,65.9,65.9,43%,5e-13,39.29,119,P0DPW4.1
+Query #17: g12562.t1,U-scoloptoxin(01)-Er1a; Short=U-SLPTX(01)-Er1a;...,Ethmostigmus,NA,62613,65.5,65.5,41%,7e-13,39.76,119,P0DPW4.1
+Query #18: g15484.t1,Vacuolar protein sorting-associated protein 51...,Danio rerio,zebrafish,7955,592,592,78%,0.0,45.03,827,Q155U0.1
+Query #19: g1285.t1,U-scoloptoxin(01)-Er1a; Short=U-SLPTX(01)-Er1a;...,Ethmostigmus,NA,62613,64.3,64.3,44%,2e-12,37.21,119,P0DPW4.1
