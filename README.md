@@ -141,5 +141,3 @@ Results saved to data/PXRD4D97013-Alignment.txtbest_blast_matches.csv
 | g10514.t1  | —         | —                            | —       | —       | —           | —                                                                                   |
 | g15484.t1  | Q155U0.1  | Danio rerio                 | 0.0     | 45.03%  | 78%         | Vacuolar protein sorting-associated protein 51 homolog; Protein fat-free           |
 
-## 7. Integrate various pieces of evidence
-
